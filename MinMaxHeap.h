@@ -16,6 +16,7 @@
 #include <stdexcept>
 #include <iostream>
 
+
 namespace minmax
 {
 
